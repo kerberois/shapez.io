@@ -494,7 +494,7 @@ buildings:
             description: &painter_desc Koloruje kształt za pomocą dostarczonego z boku koloru.
         double:
             name: Malarz (Podwójny)
-            description: Koloruje kształt za pomocą dostarczoneg z boku koloru. Koloruje 2 kształty używając 1 barwnika.
+            description: Koloruje kształt za pomocą dostarczonego z boku koloru. Koloruje 2 kształty używając 1 barwnika.
         quad:
             name: Malarz (Poczwórny)
             description: Koloruje każdą ćwiartkę kształtu na inny kolor, używając dostarczonych kolorów.
